@@ -153,70 +153,88 @@ I'm Laila, a developer who enjoys turning ideas into applications, exploring new
 
 ---
 
+---
+
 ## 03. QUEST BOARD
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AVAILABLE_QUESTS-04-D98245?style=flat-square&labelColor=4B392F"/>
+<img src="https://img.shields.io/badge/AVAILABLE_QUESTS-04-D98245?style=for-the-badge&labelColor=4B392F"/>
 
-*Choose an adventure to explore.*
+*Every quest is a new challenge. Every project is a new achievement.*
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 01 / Weather Explorer
+<img src="https://img.shields.io/badge/QUEST_01-UNLOCKED-FFE5B4?style=for-the-badge&labelColor=4B392F"/>
 
-A weather application providing current weather conditions, hourly updates, and a 7-day forecast.
+### 🌤️ WEATHER EXPLORER
 
-**Technologies**
+A weather application displaying current conditions, hourly updates, and a 7-day forecast.
 
-`Flutter` `Dart` `REST API`
+**TECH STACK**
 
-[EXPLORE QUEST →](YOUR_PROJECT_LINK)
+<img src="https://img.shields.io/badge/Flutter-4B392F?style=flat-square&logo=flutter&logoColor=FFE5B4"/>
+<img src="https://img.shields.io/badge/Dart-4B392F?style=flat-square&logo=dart&logoColor=FFE5B4"/>
+<img src="https://img.shields.io/badge/REST_API-4B392F?style=flat-square&logo=fastapi&logoColor=FFE5B4"/>
+
+[<img src="https://img.shields.io/badge/EXPLORE_QUEST-D98245?style=for-the-badge&labelColor=4B392F"/>](YOUR_PROJECT_LINK)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 02 / Post Manager
+<img src="https://img.shields.io/badge/QUEST_02-UNLOCKED-FFE5B4?style=for-the-badge&labelColor=4B392F"/>
 
-A CRUD application that allows users to create, update, delete, and search posts using REST APIs.
+### 📋 POST MANAGER
 
-**Technologies**
+A CRUD application for creating, editing, deleting, and searching posts using REST APIs.
 
-`Flutter` `Provider` `REST API`
+**TECH STACK**
 
-[EXPLORE QUEST →](YOUR_PROJECT_LINK)
+<img src="https://img.shields.io/badge/Flutter-4B392F?style=flat-square&logo=flutter&logoColor=FFE5B4"/>
+<img src="https://img.shields.io/badge/Provider-4B392F?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_API-4B392F?style=flat-square"/>
+
+[<img src="https://img.shields.io/badge/EXPLORE_QUEST-D98245?style=for-the-badge&labelColor=4B392F"/>](YOUR_PROJECT_LINK)
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### 03 / GPS Spoofing Detection
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/QUEST_03-IN_PROGRESS-D98245?style=for-the-badge&labelColor=4B392F"/>
+
+### 🛰️ GPS SPOOFING DETECTION
 
 A Cyber Security graduation project focused on detecting suspicious GPS data and potential spoofing attempts.
 
-**Technologies**
+**TECH STACK**
 
-`Python` `GPS` `Data Analysis`
+<img src="https://img.shields.io/badge/Python-4B392F?style=flat-square&logo=python&logoColor=FFE5B4"/>
+<img src="https://img.shields.io/badge/GPS-4B392F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Analysis-4B392F?style=flat-square"/>
 
-[EXPLORE QUEST →](YOUR_PROJECT_LINK)
+[<img src="https://img.shields.io/badge/EXPLORE_QUEST-D98245?style=for-the-badge&labelColor=4B392F"/>](YOUR_PROJECT_LINK)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 04 / LastBite
+<img src="https://img.shields.io/badge/QUEST_04-IN_PROGRESS-D98245?style=for-the-badge&labelColor=4B392F"/>
+
+### 🍃 LASTBITE
 
 A food-waste reduction platform connecting restaurants and customers through available food offers.
 
-**Technologies**
+**TECH STACK**
 
-`ASP.NET Core` `SQL Server`
+<img src="https://img.shields.io/badge/ASP.NET_CORE-4B392F?style=flat-square&logo=dotnet&logoColor=FFE5B4"/>
+<img src="https://img.shields.io/badge/SQL_Server-4B392F?style=flat-square&logo=microsoftsqlserver&logoColor=FFE5B4"/>
 
-[EXPLORE QUEST →](YOUR_PROJECT_LINK)
+[<img src="https://img.shields.io/badge/EXPLORE_QUEST-D98245?style=for-the-badge&labelColor=4B392F"/>](YOUR_PROJECT_LINK)
 
 </td>
 </tr>
@@ -224,9 +242,13 @@ A food-waste reduction platform connecting restaurants and customers through ava
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2500&pause=1000&color=D98245&center=true&vCenter=true&width=500&height=35&lines=MORE+QUESTS+COMING+SOON..." />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2500&pause=1000&color=D98245&center=true&vCenter=true&width=500&height=35&lines=MORE+QUESTS+COMING+SOON..."/>
 
 </div>
+
+---
 
 ---
 
