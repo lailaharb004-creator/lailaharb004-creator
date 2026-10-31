@@ -151,12 +151,6 @@ I'm Laila, a developer who enjoys turning ideas into applications, exploring new
 
 ---
 
----
-
----
-
----
-
 ## 03. QUEST BOARD
 
 <div align="center">
