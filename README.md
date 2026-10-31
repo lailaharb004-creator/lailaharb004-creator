@@ -66,7 +66,7 @@ I'm Laila, a developer who enjoys turning ideas into applications, exploring new
 
 </div>
 
-<table width="85%">
+<table width="90%">
 <tr>
 <td width="50%" valign="top" align="center">
 
