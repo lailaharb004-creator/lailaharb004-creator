@@ -12,7 +12,7 @@
 <tr>
 <td width="35%" align="center" valign="middle">
 
-<img src="photo_2026-10-31_17-33-12.jpg" width="100%"/>
+<img src="https://placehold.co/260x300/4B392F/FFE5B4?text=YOUR+CHARACTER" width="100%"/>
 
 **PLAYER 001**
 
