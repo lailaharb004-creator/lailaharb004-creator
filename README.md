@@ -1,29 +1,3 @@
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=4B392F&height=110&text=LAILA'S%20WORLD&fontColor=FFE5B4&fontSize=38&fontAlignY=55" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1000&color=D98245&center=true&vCenter=true&width=600&height=45&lines=PLAYER+001;WELCOME+TO+MY+WORLD;LOADING+NEW+ADVENTURES..." />
-
-<br/>
-
-**LAILA HARB**
-
-Cyber Security Graduate · Flutter Developer
-
-*Every project is a new adventure. Every line of code is XP earned.*
-
-<br/>
-
-<img src="https://img.shields.io/badge/PLAYER-001-FFE5B4?style=flat-square&labelColor=4B392F"/>
-<img src="https://img.shields.io/badge/CLASS-DEVELOPER-D98245?style=flat-square&labelColor=4B392F"/>
-<img src="https://img.shields.io/badge/STATUS-EXPLORING-527C78?style=flat-square&labelColor=4B392F"/>
-
-</div>
-
----
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=4B392F&height=130&text=LAILA'S%20WORLD&fontColor=FFE5B4&fontSize=42&fontAlignY=45&desc=THE%20ADVENTURE%20BEGINS%20HERE&descSize=12&descColor=D98245&descAlignY=75" width="100%"/>
