@@ -57,83 +57,81 @@ I'm interested in mobile application development, especially Flutter, and enjoy 
 
 ## 🗺️ LEVEL 03 — QUEST BOARD
 
-*Choose your adventure! Every project is a new challenge.*
+<div align="center">
+
+<img src="https://img.shields.io/badge/QUESTS-04-D98245?style=for-the-badge&labelColor=49372C"/>
+<img src="https://img.shields.io/badge/PLAYER-LAILA-85845C?style=for-the-badge&labelColor=49372C"/>
+
+*Select your next adventure!*
+
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#F4EBDD" align="center">
 
-### 🌦️ QUEST 01
+<img src="https://img.shields.io/badge/QUEST_01-WEATHER-D98245?style=for-the-badge&labelColor=49372C"/>
 
-**Weather Explorer**
+<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="100%"/>
 
-A weather application that displays current weather conditions and forecasts using real-time API data.
+### 🌦️ Weather Explorer
 
-**Features:**
-- Current weather information
-- Hourly and weekly forecasts
-- API integration and JSON parsing
+A weather application with current conditions and forecasts.
 
-`Flutter` `Dart` `REST API`
+<img src="https://img.shields.io/badge/FLUTTER-6B9BD1?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/API-D98245?style=flat-square"/>
 
-[🎮 View Project](YOUR_PROJECT_LINK)
+[ ▶ PLAY PROJECT](YOUR_PROJECT_LINK)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#F4EBDD" align="center">
 
-### 📝 QUEST 02
+<img src="https://img.shields.io/badge/QUEST_02-POST_MANAGER-85845C?style=for-the-badge&labelColor=49372C"/>
 
-**Post Manager**
+<img src="https://img.shields.io/badge/CRUD-POSTS-B87943?style=for-the-badge&labelColor=49372C"/>
 
-A CRUD application for managing posts with API integration and live search functionality.
+### 📝 Post Manager
 
-**Features:**
-- Create, edit and delete posts
-- Search posts dynamically
-- State management using Provider
+Create, update, delete and search posts using REST APIs.
 
-`Flutter` `Dart` `Provider` `REST API`
+<img src="https://img.shields.io/badge/DART-6B9BD1?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/PROVIDER-85845C?style=flat-square"/>
 
-[🎮 View Project](YOUR_PROJECT_LINK)
+[ ▶ PLAY PROJECT](YOUR_PROJECT_LINK)
 
 </td>
 </tr>
-
 <tr>
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#F4EBDD" align="center">
 
-### 🔐 QUEST 03
+<img src="https://img.shields.io/badge/QUEST_03-GPS_DETECTION-D98245?style=for-the-badge&labelColor=49372C"/>
 
-**GPS Spoofing Detection**
+<img src="https://img.shields.io/badge/GPS-ANALYSIS-85845C?style=for-the-badge&labelColor=49372C"/>
 
-A cybersecurity graduation project focused on detecting suspicious GPS data and potential spoofing attempts.
+### 🔐 GPS Detection
 
-**Features:**
-- GPS data analysis
-- Suspicious movement detection
-- Rule-based anomaly detection
+Detecting suspicious GPS data and potential spoofing attempts.
 
-`Python` `GPS` `Data Analysis`
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DATA_ANALYSIS-B87943?style=flat-square"/>
 
-[🎮 View Project](YOUR_PROJECT_LINK)
+[ ▶ PLAY PROJECT](YOUR_PROJECT_LINK)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" bgcolor="#F4EBDD" align="center">
 
-### 🍃 QUEST 04
+<img src="https://img.shields.io/badge/QUEST_04-LASTBITE-85845C?style=for-the-badge&labelColor=49372C"/>
 
-**LastBite**
+<img src="https://img.shields.io/badge/FOOD-SAVER-D98245?style=for-the-badge&labelColor=49372C"/>
 
-A food-waste reduction platform connecting restaurants with customers through food offers.
+### 🍃 LastBite
 
-**Features:**
-- Restaurant and customer roles
-- Food offers management
-- Database integration
+A platform connecting restaurants and customers to reduce food waste.
 
-`ASP.NET Core` `C#` `SQL Server`
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
-[🎮 View Project](YOUR_PROJECT_LINK)
+[ ▶ PLAY PROJECT](YOUR_PROJECT_LINK)
 
 </td>
 </tr>
@@ -141,15 +139,10 @@ A food-waste reduction platform connecting restaurants with customers through fo
 
 <div align="center">
 
-`[ MORE QUESTS COMING SOON... ]`
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=800&color=D98245&center=true&vCenter=true&width=500&height=45&lines=MORE+QUESTS+COMING+SOON...;KEEP+EXPLORING!" />
 
 </div>
 
-### 🍃 QUEST 04 — LastBite
-
-A food-waste reduction platform connecting restaurants with customers.
-
-`ASP.NET Core` `C#` `SQL Server`
 
 ---
 
