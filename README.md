@@ -66,9 +66,9 @@ I'm Laila, a developer who enjoys turning ideas into applications, exploring new
 
 </div>
 
-<table>
+<table width="85%">
 <tr>
-<td width="85%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 ### ⚔️ MOBILE DEVELOPMENT
 
