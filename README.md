@@ -236,7 +236,7 @@ A Cyber Security graduation project focused on detecting suspicious GPS data and
 
 ---
 
-## 06. CONNECTION POINT
+## 04. CONNECTION POINT
 
 <div align="center">
 
