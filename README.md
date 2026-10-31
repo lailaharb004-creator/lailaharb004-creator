@@ -62,26 +62,82 @@ I'm Laila, a developer who enjoys turning ideas into applications, exploring new
 
 <div align="center">
 
-*Tools collected throughout the journey.*
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=dart,flutter,python,html,css,js,bootstrap" />
-
-<img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,androidstudio,figma,postman" />
+*Abilities unlocked throughout the journey.*
 
 </div>
 
-| Category | Skills |
-|:---|:---|
-| Mobile Development | Flutter, Dart |
-| Programming | Python, JavaScript |
-| Web Development | HTML, CSS, Bootstrap |
-| Database | SQL Server, Firebase |
-| API Integration | REST APIs, JSON |
-| State Management | Provider |
-| Backend | ASP.NET Core |
-| Tools | Git, GitHub, Postman |
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+### ⚔️ MOBILE DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+`Flutter` · `Dart`
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🌐 WEB DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🗄️ DATABASE & BACKEND
+
+<img src="https://skillicons.dev/icons?i=firebase,dotnet,cs" />
+
+`Firebase` · `SQL Server` · `ASP.NET Core`
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🐍 PROGRAMMING
+
+<img src="https://skillicons.dev/icons?i=python,java" />
+
+`Python` · `Java`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### 🔌 API & STATE MANAGEMENT
+
+<img src="https://skillicons.dev/icons?i=postman" />
+
+`REST APIs` · `JSON` · `Provider`
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### 🛠️ DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+
+`Git` · `GitHub` · `VS Code` · `Android Studio` · `Figma`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SKILL%20TREE-EXPANDING-D98245?style=for-the-badge&labelColor=4B392F"/>
+
+*New abilities are being unlocked...*
+
+</div>
 
 ---
 
