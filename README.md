@@ -14,25 +14,69 @@
 
 ---
 
-## 🕹️ LEVEL 01 — MEET THE PLAYER
+## 🕹️ LEVEL 01 — PLAYER SELECT
 
-```text
-╔════════════════════════════╗
-║       PLAYER PROFILE       ║
-╠════════════════════════════╣
-║ NAME    : Laila Harb       ║
-║ CLASS   : Developer        ║
-║ DEGREE  : Cyber Security   ║
-║ STATUS  : Learning         ║
-║ MISSION : Build & Create   ║
-╚════════════════════════════╝
-```
+<div align="center">
 
-Hello! I'm Laila, a Cyber Security graduate from Hashemite University.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2500&pause=1000&color=D98245&center=true&vCenter=true&width=600&height=50&lines=PLAYER+001;LOADING+PLAYER+PROFILE...;WELCOME+TO+MY+WORLD!" />
 
-I'm interested in mobile application development, especially Flutter, and enjoy exploring APIs, databases, and building practical applications.
+<img src="https://img.shields.io/badge/PLAYER-001-FFE5B4?style=for-the-badge&labelColor=49372C"/>
+<img src="https://img.shields.io/badge/CLASS-DEVELOPER-D98245?style=for-the-badge&labelColor=49372C"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-85845C?style=for-the-badge&labelColor=49372C"/>
 
-**Current mission:** Level up my development skills and build meaningful projects!
+<img src="YOUR_PIXEL_CHARACTER_GIF_OR_IMAGE" width="180"/>
+
+# LAILA HARB
+
+### ✦ THE DEVELOPER ADVENTURE BEGINS! ✦
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/EDUCATION-FFE5B4?style=for-the-badge&labelColor=D98245"/>
+
+🎓 **Cyber Security Graduate**
+
+Hashemite University
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://img.shields.io/badge/CLASS-FFE5B4?style=for-the-badge&labelColor=85845C"/>
+
+📱 **Flutter Developer**
+
+Mobile Application Development
+
+</td>
+</tr>
+</table>
+
+### 📜 PLAYER BIO
+
+> Hello! I'm Laila, a Cyber Security graduate passionate about software development and building creative applications.
+>
+> I enjoy exploring Flutter, working with APIs, learning new technologies, and turning ideas into practical projects.
+
+### ⭐ CURRENT MISSION
+
+- 📱 Exploring Flutter & Mobile Development
+- 🔌 Learning REST API Integration
+- 🗄️ Working with Databases
+- 🚀 Building projects and leveling up my skills
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/EXPERIENCE-ALWAYS_LEARNING-D98245?style=for-the-badge&labelColor=49372C"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D98245&height=8&section=header" width="65%"/>
+
+*Every line of code is another XP earned!*
+
+</div>
 
 ---
 
