@@ -23,37 +23,64 @@ Cyber Security Graduate · Flutter Developer
 
 ---
 
-## 01. PLAYER PROFILE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=2500&pause=1000&color=D98245&center=true&vCenter=true&width=450&height=35&lines=GET+TO+KNOW+THE+PLAYER..." />
-
-</div>
-
-### About Me
-
-Hello! I'm Laila, a Cyber Security graduate passionate about software development and building creative applications.
-
-I enjoy exploring Flutter, working with APIs, learning new technologies, and turning ideas into practical projects.
-
-**Current Mission**
-
-- Exploring Flutter & Mobile Development.
-- Learning REST API Integration.
-- Working with Firebase and Databases.
-- Building projects and improving my development skills.
-- Connecting my Cyber Security background with software development.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4B392F&height=130&text=LAILA'S%20WORLD&fontColor=FFE5B4&fontSize=42&fontAlignY=45&desc=THE%20ADVENTURE%20BEGINS%20HERE&descSize=12&descColor=D98245&descAlignY=75" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-`PLAYER LOCATION: JORDAN`
-
-`CURRENT QUEST: KEEP LEARNING`
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=1000&color=D98245&center=true&vCenter=true&width=500&height=40&lines=PLAYER+ONE;CHARACTER+UNLOCKED;WELCOME+TO+MY+WORLD"/>
 
 </div>
+
+<table>
+<tr>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://placehold.co/260x300/4B392F/FFE5B4?text=YOUR+CHARACTER" width="100%"/>
+
+**PLAYER 001**
+
+<sub>CLASS: DEVELOPER</sub>
+
+<sub>LEVEL: LEARNING</sub>
+
+</td>
+<td width="65%" valign="middle">
+
+# LAILA HARB
+
+<sub>CYBER SECURITY GRADUATE · FLUTTER DEVELOPER</sub>
+
+Welcome to my little corner of the internet!
+
+I'm Laila, a developer who enjoys turning ideas into applications, exploring new technologies, and solving problems through code.
+
+**CURRENT STATUS**
+
+`EXPLORING FLUTTER`
+
+`LEARNING EVERY DAY`
+
+`BUILDING NEW PROJECTS`
+
+<br/>
+
+*Every project unlocks a new level.*
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HP-100%2F100-527C78?style=for-the-badge&labelColor=4B392F"/>
+<img src="https://img.shields.io/badge/XP-ALWAYS_GROWING-D98245?style=for-the-badge&labelColor=4B392F"/>
+<img src="https://img.shields.io/badge/QUEST-IN_PROGRESS-FFE5B4?style=for-the-badge&labelColor=4B392F"/>
+
+</div>
+
 
 ---
 
