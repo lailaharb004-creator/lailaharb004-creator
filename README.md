@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
 
 # 💙 Laila Harb
@@ -142,7 +142,7 @@ A food-waste reduction platform connecting restaurants with customers.
 *Keep learning. Keep building. Keep securing.*
 
 </div>
-```
+
 
 <!--
 **lailaharb004-creator/lailaharb004-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
