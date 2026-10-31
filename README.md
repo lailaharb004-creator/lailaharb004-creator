@@ -55,27 +55,95 @@ I'm interested in mobile application development, especially Flutter, and enjoy 
 
 ---
 
-## 🗺️ LEVEL 03 — QUEST LOG
+## 🗺️ LEVEL 03 — QUEST BOARD
 
-*Every project is a new adventure!*
+*Choose your adventure! Every project is a new challenge.*
 
-### 🌦️ QUEST 01 — Weather Explorer
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A weather application exploring API integration and weather forecasts.
+### 🌦️ QUEST 01
+
+**Weather Explorer**
+
+A weather application that displays current weather conditions and forecasts using real-time API data.
+
+**Features:**
+- Current weather information
+- Hourly and weekly forecasts
+- API integration and JSON parsing
 
 `Flutter` `Dart` `REST API`
 
-### 📝 QUEST 02 — Post Manager
+[🎮 View Project](YOUR_PROJECT_LINK)
 
-A CRUD application for managing posts with live search and API integration.
+</td>
+<td width="50%" valign="top">
 
-`Flutter` `Provider` `JSONPlaceholder`
+### 📝 QUEST 02
 
-### 🔐 QUEST 03 — GPS Anomaly Detection
+**Post Manager**
 
-A graduation project focused on detecting suspicious GPS data and potential spoofing.
+A CRUD application for managing posts with API integration and live search functionality.
+
+**Features:**
+- Create, edit and delete posts
+- Search posts dynamically
+- State management using Provider
+
+`Flutter` `Dart` `Provider` `REST API`
+
+[🎮 View Project](YOUR_PROJECT_LINK)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 QUEST 03
+
+**GPS Spoofing Detection**
+
+A cybersecurity graduation project focused on detecting suspicious GPS data and potential spoofing attempts.
+
+**Features:**
+- GPS data analysis
+- Suspicious movement detection
+- Rule-based anomaly detection
 
 `Python` `GPS` `Data Analysis`
+
+[🎮 View Project](YOUR_PROJECT_LINK)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍃 QUEST 04
+
+**LastBite**
+
+A food-waste reduction platform connecting restaurants with customers through food offers.
+
+**Features:**
+- Restaurant and customer roles
+- Food offers management
+- Database integration
+
+`ASP.NET Core` `C#` `SQL Server`
+
+[🎮 View Project](YOUR_PROJECT_LINK)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`[ MORE QUESTS COMING SOON... ]`
+
+</div>
 
 ### 🍃 QUEST 04 — LastBite
 
