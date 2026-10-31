@@ -248,7 +248,7 @@ Interested in connecting, collaborating, or sharing ideas?
 <img src="https://img.shields.io/badge/GitHub-4B392F?style=for-the-badge&logo=github&logoColor=FFE5B4"/>
 </a>
 
-<a href="www.linkedin.com/in/laila-harb">
+<a href="https://linkedin.com/in/laila-harb">
 <img src="https://img.shields.io/badge/LinkedIn-D98245?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -266,7 +266,7 @@ Interested in connecting, collaborating, or sharing ideas?
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1000&color=D98245&center=true&vCenter=true&width=450&height=35&lines=GAME+STATUS%3A+IN+PROGRESS;NEW+LEVELS+LOADING..." />
 
-*Made with curiosity, creativity & H2L3 🍊.*
+*Made with curiosity, creativity & Love +_+.*
 
 **✦ EVERY PROJECT UNLOCKS A NEW LEVEL ✦**
 
