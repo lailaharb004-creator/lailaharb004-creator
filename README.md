@@ -155,11 +155,13 @@ I'm Laila, a developer who enjoys turning ideas into applications, exploring new
 
 ---
 
+---
+
 ## 03. QUEST BOARD
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AVAILABLE_QUESTS-04-D98245?style=for-the-badge&labelColor=4B392F"/>
+<img src="https://img.shields.io/badge/AVAILABLE_QUESTS-03-D98245?style=for-the-badge&labelColor=4B392F"/>
 
 *Every quest is a new challenge. Every project is a new achievement.*
 
@@ -169,7 +171,7 @@ I'm Laila, a developer who enjoys turning ideas into applications, exploring new
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/QUEST_01-UNLOCKED-FFE5B4?style=for-the-badge&labelColor=4B392F"/>
+<img src="https://img.shields.io/badge/QUEST_01-IN_PROGRESS-D98245?style=for-the-badge&labelColor=4B392F"/>
 
 ### 🌤️ WEATHER EXPLORER
 
@@ -179,7 +181,7 @@ A weather application displaying current conditions, hourly updates, and a 7-day
 
 <img src="https://img.shields.io/badge/Flutter-4B392F?style=flat-square&logo=flutter&logoColor=FFE5B4"/>
 <img src="https://img.shields.io/badge/Dart-4B392F?style=flat-square&logo=dart&logoColor=FFE5B4"/>
-<img src="https://img.shields.io/badge/REST_API-4B392F?style=flat-square&logo=fastapi&logoColor=FFE5B4"/>
+<img src="https://img.shields.io/badge/REST_API-4B392F?style=flat-square"/>
 
 [<img src="https://img.shields.io/badge/EXPLORE_QUEST-D98245?style=for-the-badge&labelColor=4B392F"/>](YOUR_PROJECT_LINK)
 
@@ -204,9 +206,9 @@ A CRUD application for creating, editing, deleting, and searching posts using RE
 </tr>
 
 <tr>
-<td width="50%" valign="top" align="center">
+<td colspan="2" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/QUEST_03-IN_PROGRESS-D98245?style=for-the-badge&labelColor=4B392F"/>
+<img src="https://img.shields.io/badge/QUEST_03-UNLOCKED-FFE5B4?style=for-the-badge&labelColor=4B392F"/>
 
 ### 🛰️ GPS SPOOFING DETECTION
 
@@ -221,22 +223,6 @@ A Cyber Security graduation project focused on detecting suspicious GPS data and
 [<img src="https://img.shields.io/badge/EXPLORE_QUEST-D98245?style=for-the-badge&labelColor=4B392F"/>](YOUR_PROJECT_LINK)
 
 </td>
-<td width="50%" valign="top" align="center">
-
-<img src="https://img.shields.io/badge/QUEST_04-IN_PROGRESS-D98245?style=for-the-badge&labelColor=4B392F"/>
-
-### 🍃 LASTBITE
-
-A food-waste reduction platform connecting restaurants and customers through available food offers.
-
-**TECH STACK**
-
-<img src="https://img.shields.io/badge/ASP.NET_CORE-4B392F?style=flat-square&logo=dotnet&logoColor=FFE5B4"/>
-<img src="https://img.shields.io/badge/SQL_Server-4B392F?style=flat-square&logo=microsoftsqlserver&logoColor=FFE5B4"/>
-
-[<img src="https://img.shields.io/badge/EXPLORE_QUEST-D98245?style=for-the-badge&labelColor=4B392F"/>](YOUR_PROJECT_LINK)
-
-</td>
 </tr>
 </table>
 
@@ -247,6 +233,8 @@ A food-waste reduction platform connecting restaurants and customers through ava
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2500&pause=1000&color=D98245&center=true&vCenter=true&width=500&height=35&lines=MORE+QUESTS+COMING+SOON..."/>
 
 </div>
+
+---
 
 ---
 
