@@ -1,81 +1,83 @@
+ <div align="center">
 
-<div align="center">
+# 💾 LAILA HARB
 
-# 💙 Laila Harb
+### Welcome to my little corner of the internet!
 
-### 🔐 Cyber Security Graduate | 📱 Flutter Developer
+`[ SOFTWARE DEVELOPER IN PROGRESS ]`
 
-Building secure and innovative solutions where
-**Cybersecurity meets Mobile Development.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D98245&height=120&section=header&text=Hello,%20World!&fontSize=35&fontColor=FFF5E8&fontAlignY=40" width="100%"/>
 
-<br/>
+**Cyber Security Graduate | Flutter Developer**
 
-<a href="https://github.com/lailaharb004-creator">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-</a>
-<a href="https://flutter.dev">
-  <img src="https://img.shields.io/badge/Flutter-Developer-0D1117?style=for-the-badge&logo=flutter&logoColor=58A6FF" />
-</a>
-<a href="https://www.python.org">
-  <img src="https://img.shields.io/badge/Python-Learning-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
-</a>
+*Turning ideas into applications, one line of code at a time.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-49372C?style=flat-square&logo=github&logoColor=F4EBDD)](https://github.com/lailaharb004-creator)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🖥️ ABOUT_LAILA.exe
 
-- 🎓 Cyber Security graduate from **Hashemite University**.
-- 📱 Interested in Flutter and mobile application development.
-- 🔐 Passionate about application security and secure coding.
-- 🌐 Exploring REST APIs, databases, and full-stack development.
-- 🚀 Always learning, building, and improving my skills.
+```text
+----------------------------------------
+ USER PROFILE
+----------------------------------------
+ Name       : Laila Harb
+ Education  : Cyber Security Graduate
+ University : Hashemite University
+ Focus      : Flutter Development
+ Interests  : Mobile Apps, Web Development,
+              Application Security
+ Status     : Always Learning...
+----------------------------------------
+```
+
+Hello! I'm Laila, a Cyber Security graduate interested in software development, especially building mobile applications with Flutter.
+
+I enjoy exploring new technologies, working with APIs, and turning ideas into practical projects.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🧰 MY TOOLBOX
 
 <div align="center">
 
-### Mobile Development
+### 📱 Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,js" />
 
-### Programming & Web Development
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
-
-### Database & Tools
+### 🗄️ Database & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 
 </div>
 
-**Also familiar with:** SQL Server, REST APIs, JSON, Provider, and Cybersecurity Fundamentals.
+**Other Technologies:** SQL Server · REST APIs · JSON · Provider · ASP.NET Core
 
 ---
 
-## 🚀 Featured Projects
+## 📂 MY PROJECTS
 
 <table>
 <tr>
-<td width="50%">
-
-### 📱 Flutter REST API CRUD
-
-A Flutter application for managing posts using REST API operations.
-
-**Tech:** Flutter · Dart · Provider · REST API
-
-</td>
 <td width="50%">
 
 ### 🌦️ Weather App
 
 A weather application exploring API integration and weather forecasts.
 
-**Tech:** Flutter · Dart · JSON · REST API
+`Flutter` `Dart` `REST API`
+
+</td>
+<td width="50%">
+
+### 📝 REST API CRUD
+
+A Flutter application for creating, editing, deleting, and searching posts.
+
+`Flutter` `Provider` `REST API`
 
 </td>
 </tr>
@@ -84,77 +86,57 @@ A weather application exploring API integration and weather forecasts.
 
 ### 🔐 GPS Spoofing Detection
 
-A cybersecurity graduation project focused on detecting suspicious GPS data in electronic monitoring systems.
+A graduation project focused on detecting suspicious GPS data.
 
-**Tech:** Python · GPS Data Analysis · Anomaly Detection
+`Python` `GPS` `Data Analysis`
 
 </td>
 <td width="50%">
 
 ### 🍃 LastBite
 
-A food-waste reduction platform connecting restaurants with customers.
+A platform concept focused on reducing food waste by connecting restaurants with customers.
 
-**Tech:** ASP.NET Core · C# · SQL Server
+`ASP.NET Core` `C#` `SQL Server`
 
 </td>
 </tr>
 </table>
 
+---
+
+## 📊 SYSTEM INFORMATION
+
 <div align="center">
 
-*More projects coming soon! 🚀*
+<img src="https://github-readme-stats.vercel.app/api?username=lailaharb004-creator&show_icons=true&theme=default&bg_color=F4EBDD&title_color=49372C&text_color=49372C&icon_color=D98245&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaharb004-creator&layout=compact&bg_color=F4EBDD&title_color=49372C&text_color=49372C&hide_border=true" width="48%"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📬 CONTACT.EXE
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lailaharb004-creator&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+[![GitHub](https://img.shields.io/badge/GitHub-49372C?style=for-the-badge&logo=github&logoColor=F4EBDD)](https://github.com/lailaharb004-creator)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaharb004-creator&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D98245?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/lailaharb004-creator">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D98245&height=90&section=footer"/>
 
-<!-- Add your LinkedIn profile URL below -->
+**THANKS FOR VISITING!**
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
-</a>
+`Made with ☕ and curiosity.`
 
-<br/><br/>
-
-### 💙 Secure Code. Better Tomorrow.
-
-*Keep learning. Keep building. Keep securing.*
+💾 *Keep coding. Keep creating.*
 
 </div>
-
-
-<!--
-**lailaharb004-creator/lailaharb004-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
