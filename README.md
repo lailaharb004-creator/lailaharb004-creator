@@ -58,15 +58,21 @@ I'm Laila, a developer who enjoys turning ideas into applications, exploring new
 
 ---
 
+---
+
 ## 02. SKILL INVENTORY
 
 <div align="center">
 
 *Abilities unlocked throughout the journey.*
 
-</div>
+<br/>
 
-<table width="90%">
+<table align="center">
+<tr>
+<td align="center">
+
+<table>
 <tr>
 <td width="50%" valign="top" align="center">
 
@@ -131,13 +137,19 @@ I'm Laila, a developer who enjoys turning ideas into applications, exploring new
 </tr>
 </table>
 
-<div align="center">
+</td>
+</tr>
+</table>
+
+<br/>
 
 <img src="https://img.shields.io/badge/SKILL%20TREE-EXPANDING-D98245?style=for-the-badge&labelColor=4B392F"/>
 
 *New abilities are being unlocked...*
 
 </div>
+
+---
 
 ---
 
