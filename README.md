@@ -236,34 +236,6 @@ A Cyber Security graduation project focused on detecting suspicious GPS data and
 
 ---
 
----
-
----
-
-## 04. ACHIEVEMENTS
-
-| Achievement | Description |
-|:---|:---|
-| The Graduate | Completed a Cyber Security degree |
-| App Explorer | Exploring Flutter development |
-| API Explorer | Working with REST APIs |
-| Security Mindset | Cyber Security background |
-| Continuous Learner | Always learning new technologies |
-
----
-
-## 05. PLAYER STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=lailaharb004-creator&show_icons=true&bg_color=4B392F&title_color=FFE5B4&text_color=FFE5B4&icon_color=D98245&border_color=80634B&hide_border=false" width="95%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lailaharb004-creator&layout=compact&bg_color=4B392F&title_color=FFE5B4&text_color=FFE5B4&border_color=80634B" width="75%"/>
-
-</div>
-
----
-
 ## 06. CONNECTION POINT
 
 <div align="center">
@@ -276,7 +248,7 @@ Interested in connecting, collaborating, or sharing ideas?
 <img src="https://img.shields.io/badge/GitHub-4B392F?style=for-the-badge&logo=github&logoColor=FFE5B4"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/laila-harb">
 <img src="https://img.shields.io/badge/LinkedIn-D98245?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -294,7 +266,7 @@ Interested in connecting, collaborating, or sharing ideas?
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1000&color=D98245&center=true&vCenter=true&width=450&height=35&lines=GAME+STATUS%3A+IN+PROGRESS;NEW+LEVELS+LOADING..." />
 
-*Made with curiosity, creativity & coffee.*
+*Made with curiosity, creativity & H2L3 🍊.*
 
 **✦ EVERY PROJECT UNLOCKS A NEW LEVEL ✦**
 
