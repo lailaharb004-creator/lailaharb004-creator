@@ -11,7 +11,7 @@
 <table>
 <tr>
 <td width="35%" align="center" valign="middle">
-<img src="image.jpg" width="100%"/> 
+<img src="image.png" width="100%"/> 
 
 **PLAYER 001**
 
