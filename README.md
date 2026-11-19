@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=7D8D39&height=130&text=LAILA'S%20WORLD&fontColor=F3F6F4&fontSize=42&fontAlignY=45&desc=THE%20ADVENTURE%20BEGINS%20HERE&descSize=12&descColor=D18A55&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7D8D39&height=130&text=LAILA'S%20WORLD&fontColor=F3F6F4&fontSize=42&fontAlignY=45&desc=THE%20ADVENTURE%20BEGINS%20HERE&descSize=12&descColor=D18A55&descAlignY=75" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=1000&color=D18A55&center=true&vCenter=true&width=500&height=40&lines=PLAYER+ONE;CHARACTER+UNLOCKED;WELCOME+TO+MY+WORLD"/> -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=1000&color=D18A55&center=true&vCenter=true&width=500&height=40&lines=PLAYER+ONE;CHARACTER+UNLOCKED;WELCOME+TO+MY+WORLD"/> 
 
 </div>
 
@@ -12,7 +12,7 @@
 <tr>
 <td width="35%" align="center" valign="middle">
 
-<img src="character.jpg" width="100%"/>
+<!-- <img src="character.jpg" width="100%"/> -->
 
 **PLAYER 001**
 
