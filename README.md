@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7D8D39&height=130&text=LAILA'S%20WORLD&fontColor=F3F6F4&fontSize=42&fontAlignY=45&desc=THE%20ADVENTURE%20BEGINS%20HERE&descSize=12&descColor=D18A55&descAlignY=75" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=7D8D39&height=130&text=LAILA'S%20WORLD&fontColor=F3F6F4&fontSize=42&fontAlignY=45&desc=THE%20ADVENTURE%20BEGINS%20HERE&descSize=12&descColor=D18A55&descAlignY=75" width="100%"/> -->
 
 <br/>
 
